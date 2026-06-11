@@ -283,7 +283,7 @@ Monitoring Steps:
 
 LoadBalancer URL:
 
-https://a5d5e659a1c3640db8f15107764637bc-607505989.ap-south-1.elb.amazonaws.com
+http://a5d5e659a1c3640db8f15107764637bc-607505989.ap-south-1.elb.amazonaws.com
 
 ## Conclusion
 
